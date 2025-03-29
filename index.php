@@ -17,14 +17,14 @@
         </form>
 <?php
 //Chave da APi
-$apiKey = '66a75a1cf0ccc02e73381649';
+$apiKey = "Chave_API";
 
 //Moedas utilizadas na conversão
 $moedaBase = "USD";
 $moedaDestino = "BRL";
 
 //Taxa de Cêmbio
-$url = 'https://v6.exchangerate-api.com/v6/66a75a1cf0ccc02e73381649/latest/USD';
+$url = "https://v6.exchangerate-api.com/v6/$apiKey/latest/USD";
 
 //Requisição 
 $buscaurl = file_get_contents($url);
