@@ -8,10 +8,10 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="texto">Conversor de (USD) para (BRL)</h1>
+        <h1>Conversor de (USD) para (BRL)</h1>
 
         <form action="" method="post">
-            <label for="valor"><h2 class="subtitulo">Informe o valor em Dólar (USD):</h2></label>
+            <label for="valor"><h2>Informe o valor em Dólar (USD):</h2></label>
             <input type="number" name="valor" step="0.01" required>
             <button type="submit">Converter</button>
         </form>
