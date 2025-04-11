@@ -74,6 +74,6 @@ Passos para executar o projeto localmente:
 ## ✍️ Autor
 
 Desenvolvido por **Davi Vieira de Souza**  
-📧 [https://www.linkedin.com/in/davivieiraa]
+📧 [LinkedIn](https://www.linkedin.com/in/davivieiraa)
 
 ---
